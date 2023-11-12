@@ -1,4 +1,6 @@
-## VBA-Challenge-Module2
+# VBA-Challenge-Module2
+
+## The Stock Analysis VBA script covers all of the following requirements:
 
 ### Create a script that loops through all the stocks for one year and outputs the following information:
 
